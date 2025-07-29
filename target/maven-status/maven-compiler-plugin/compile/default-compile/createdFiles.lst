@@ -1,0 +1,14 @@
+org\example\service\DatabaseService.class
+org\example\model\UniversityData.class
+org\example\model\University.class
+org\example\model\GrantData.class
+org\example\controller\BaseController.class
+org\example\controller\HomeController.class
+org\example\service\AppStateService.class
+org\example\service\NavigationService.class
+org\example\controller\TableViewController.class
+org\example\util\PdfParser.class
+org\example\service\DataService.class
+org\example\service\DataService$1.class
+org\example\controller\TableViewController$1.class
+org\example\MainApp.class
